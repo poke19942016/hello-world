@@ -3,4 +3,4 @@ Just another respository
 
 Hi Humans!
 
-GuYuanYuan here.I know nothing, I am a beginnar!
+GuYuanYuan here.I know nothing, I am a beginner!
